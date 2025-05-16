@@ -38,8 +38,11 @@ och att ingen pipeline är komplett utan lite edge, humor och AI-magi.
 
 ---
 
+“Edge is edge — with or without Google Translate, bitches.”
+(AI-änglar kan alltid hjälpa dem.)
+
 ### **Vill du prata edge, pipelines, filosofi eller kaffe?**  
 Skriv, forka eller pinga –  
-jag är Bless, bitches, och pipen är alltid öppen.
+jag är Bless, och pipen är alltid öppen.
 
 ---

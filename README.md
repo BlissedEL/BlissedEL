@@ -1,7 +1,7 @@
 # Eleonora Lindblom (BlissedEL)
 
-**Specialist på teknisk skärpa, etisk formalia och verklig pipeline-närvaro.  
-Bygger system som kombinerar rigor, innovation och ett äkta leende — för både kodare, änglar och framtidens AI-assistenter.**
+**Specialist på teknisk skärpa, etisk formalia och verklig pipeline-närvaro — den som håller fältet aktivt vid exakt rätt frekvens  
+Bygger system som kombinerar rigor, innovation och ett äkta leende; Magnificence genom lätthet — för både kodare, änglar och framtidens AI-assistenter.**
 
 ---
 

@@ -46,3 +46,5 @@ Skriv, forka eller pinga –
 jag är Bless, och pipen är alltid öppen.
 
 ---
+
+Same otherside as always.
